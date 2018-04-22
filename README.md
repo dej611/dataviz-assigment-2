@@ -35,3 +35,11 @@ The question targetted to build the visualization is:
 Hovering each range will show a tooltip explaining more in details the data:
 
 ![season-viz-tooltip](doc/season-viz-tooltip.png)
+
+### Issues
+
+Found any issue or want to improve the chart? Create an issue in the repository or submit a Pull Request!
+
+### License
+
+This repository is [MIT licensed](LICENSE.md)
