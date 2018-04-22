@@ -1,0 +1,35 @@
+{
+  "name": "dataviz-assigment-2",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "https://dej611.github.io/dataviz-assigment-2",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "d3": "^5.0.0",
+    "gh-pages": "^1.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "semiotic": "^1.9.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@improntaadvance/eslint-config": "0.8.3",
+    "babel-eslint": "^7.2.3",
+    "eslint": ">=4.3.0",
+    "eslint-config-prettier": "^2.3.0",
+    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-prettier": "^2.2.0",
+    "eslint-plugin-react": "^7.1.0",
+    "prettier": "^1.5.3"
+  }
+}
